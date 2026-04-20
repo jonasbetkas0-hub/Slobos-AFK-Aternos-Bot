@@ -2,12 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
+    
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "mokyklosmp9.aternos.me",
-    "port": 27586,
+    "port": 23733,
     "version": "",
     "try-creative": false
   },
